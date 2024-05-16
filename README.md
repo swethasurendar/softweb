@@ -1,5 +1,5 @@
-# Ex.07 Software Product Company Website
-## Date:30.04.24
+Ex.07 Software Product Company Website
+## Date:
 
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
@@ -903,7 +903,7 @@ contact.html
       </div>
     </div>
     <footer>
-      <center>DESIGNED AND DEVELOPED BY RAJKUMAR G(212223230166)</center>
+      <center>DESIGNED AND DEVELOPED BY swetha s(212221220054)</center>
     </footer>
   </body>
 </html>
@@ -911,10 +911,10 @@ contact.html
 ```
 
 ## OUTPUT:
-![Screenshot 2024-04-30 110217](https://github.com/Rajkumar28072005/softweb/assets/144980101/24c01354-82fa-4ea1-a92b-ff9c0db1fca0)
-![Screenshot 2024-04-30 105742](https://github.com/Rajkumar28072005/softweb/assets/144980101/9f4142cf-fd68-4f3e-af72-fa27f83f0de2)
-![Screenshot 2024-04-30 110325](https://github.com/Rajkumar28072005/softweb/assets/144980101/b4c20282-9953-4d39-bc3b-1665331f0da4)
-![Screenshot 2024-04-30 111452](https://github.com/Rajkumar28072005/softweb/assets/144980101/3b407f63-fdc8-46e7-b467-e1047a791e37)
+![c1725104-a582-4f91-be2c-9aeab9341fed](https://github.com/Rajkumar28072005/softweb/assets/133625914/d49af073-9858-4eab-af15-58383955a43a)
+![3e3f010a-39f3-4ae2-8a26-42bb3f828ada](https://github.com/Rajkumar28072005/softweb/assets/133625914/e35c9c91-9dee-4b73-a64e-755672357330)
+
+![683c0926-8669-4411-b666-84ae4db845bb](https://github.com/Rajkumar28072005/softweb/assets/133625914/ff5154b3-bc6c-479c-bcd8-e368340950b4)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
